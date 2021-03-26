@@ -1,2 +1,2 @@
 # Python-youtube
-I just do python projects in youtube videos and drop them here for testing
+In this repository I will do basic python projects while demonstrating python functions and basics.
